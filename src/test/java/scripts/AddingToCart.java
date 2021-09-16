@@ -8,7 +8,7 @@ import pomPages.SkillraryLoginPage;
 
 public class AddingToCart extends BaseClass {
 	@Test
-	public void tc1() {
+	public void tcc1() {
 		SkillraryLoginPage s=new SkillraryLoginPage(driver);
 		s.gerasButton();
 		s.skillrarydemoApp();
